@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.6.0",
+        "league/monga": "^1.2",
+        "symfony/yaml": "^3.1"
+    }
+}
